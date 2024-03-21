@@ -39,13 +39,18 @@ Once you've completed the installation, you can run the Streamlit application:
 
    ```bash
    streamlit run app.py
+```
 
 ### Installation
 
    -Upon running the application, you'll be presented with a text input field labeled "Input".
+   
    -Enter your English question related to SQL queries in the input field.
+   
    -Click on the "Ask the question" button.
+   
    -The application will generate the corresponding SQL query based on your question and retrieve data from the SQLite database accordingly.
+   
    -The response will be displayed below the input field.
 
 
